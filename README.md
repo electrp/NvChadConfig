@@ -1,0 +1,2 @@
+# NvChadConfig
+NvChad Configuration
