@@ -90,7 +90,7 @@ local plugins = {
     lazy = false,
     keys = {
       {
-        "<Leader>.", "<cmd>CodeActionMenu<cr>"
+        "<Leader>.", "<cmd>CodeActionMenu<CR>"
       }
     }
   }
