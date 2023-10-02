@@ -27,13 +27,13 @@ M.crates = {
   }
 }
 
-M.action = {
-  plugin = true,
-  [","] = {
-    function()
-      vim.keymap.set({ "v", "n" }, "gf", require("actions-preview").code_actions) 
-    end,
-  }
-}
+-- M.action = {
+--   plugin = true,
+--   [","] = {
+--     function()
+--       vim.keymap.set({ "v", "n" }, "gf", require("actions-preview").code_actions) 
+--     end,
+--   }
+-- }
 
 return M
