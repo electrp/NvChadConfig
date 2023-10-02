@@ -95,7 +95,8 @@ local plugins = {
     }
   },
   {
-    "electrp/vim-apm",
+   "electrp/vim-apm",
+    lazy = false,
   }
 }
 
