@@ -93,6 +93,9 @@ local plugins = {
         "<Leader>.", "<cmd>CodeActionMenu<CR>"
       }
     }
+  },
+  {
+    "electrp/vim-apm",
   }
 }
 
