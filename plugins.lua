@@ -97,6 +97,14 @@ local plugins = {
   {
    "electrp/vim-apm",
     lazy = false,
+  },
+  {
+    "nvim-treesitter/playground",
+    lazy = false
+  },
+  {
+    "Apeiros-46B/qalc.nvim",
+    lazy = false,
   }
 }
 
